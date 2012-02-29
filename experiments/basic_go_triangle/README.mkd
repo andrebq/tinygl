@@ -1,0 +1,9 @@
+# What is this
+
+This is just a basic sample that uses glfw and opengl to render a triangle on the screen.
+
+You can't do too much with it, just check if everything is installed and the build system can find the required libs.
+
+# LICENSE
+
+This code is based on the examples code found at the Go bindings for Glfw (github.com/jteeuwen/glfw/examples/nehe03).
