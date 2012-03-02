@@ -1,0 +1,9 @@
+#Description
+
+This project aims to hold some experiments using opengl/glfw implemented in Go.
+
+In order to run the examples you must have installed all the required C-libraries and then install the go bindings (go get ....).
+
+#License
+
+See the LICENSE file for more information about the license for the libraries/examples. Some examples use code from other locations and you can find that information inside each example folder.
