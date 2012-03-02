@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/jteeuwen/glfw"
-	"github.com/banthar/Go-OpenGL/gl"
-	"github.com/banthar/Go-OpenGL/glu"
+	"github.com/banthar/gl"
+	"github.com/banthar/glu"
 	"log"
 )
 
