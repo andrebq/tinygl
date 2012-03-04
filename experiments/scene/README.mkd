@@ -1,0 +1,3 @@
+#Scene
+
+This is intended to test an infrastructure to render complex scenes into the OpenGL window.
